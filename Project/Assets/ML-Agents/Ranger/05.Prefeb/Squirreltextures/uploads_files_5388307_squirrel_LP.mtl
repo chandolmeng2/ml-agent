@@ -1,0 +1,14 @@
+# Blender 3.6.1 MTL File: 'None'
+# www.blender.org
+
+newmtl base_material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd d0c16e8e7d4d_The_hyper_realistic_texture_kd.jpg
+map_Ns d0c16e8e7d4d_The_hyper_realistic_roughness.jpg
+map_refl d0c16e8e7d4d_The_hyper_realistic_metallic.jpg
+map_Bump -bm 1.000000 d0c16e8e7d4d_The_hyper_realistic_normals.jpg
