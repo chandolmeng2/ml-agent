@@ -1,4 +1,6 @@
 # Unity ML-Agents Toolkit
+## 본 리포지토리는 기존에 생성된 ML-Agent를 변형 및 응용하여 만든 프로젝트입니다.
+(다음 주소는 오리지널 ML-Agnet의 깃허브 주소입니다. https://github.com/Unity-Technologies/ml-agents)
 
 [![docs badge](https://img.shields.io/badge/docs-reference-blue.svg)](https://github.com/Unity-Technologies/ml-agents/tree/release_20_docs/docs/)
 
