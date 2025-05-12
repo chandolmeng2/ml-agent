@@ -1040,9 +1040,6 @@ MonoBehaviour:
   playerSpeed: 5
   agentSpeed: 3
   plane: {fileID: 0}
-  obstaclePrefab: {fileID: 1979317349989402282, guid: 66a5e3a3c67d0b245972b5e87358e264,
-    type: 3}
-  maxObstacles: 6
 --- !u!114 &6354111265685706829
 MonoBehaviour:
   m_ObjectHideFlags: 0
